@@ -1,8 +1,10 @@
 # 瑞联集团企业官网 
 http://www.reliancejk.com
-
+ <img src="./lancent_TopFiles/Reliance.png" border="0" />
 #瑞联·朗欣特品牌官网:
 http://www.lancentjk.com
+ <img src="./lancent_TopFiles/lancent.png" border="0" />
+
 
 
 	<title>瑞联·朗欣特品牌官网(www.lancentjk.com)正在升级调试中>>></title>    
