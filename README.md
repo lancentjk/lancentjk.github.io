@@ -1,5 +1,6 @@
 #说明
 瑞联·朗欣特品牌官网(www.lancentjk.com)正在升级调试中》》》
+\n
 在<b>网站维护期间</b>，请直接访问<b>瑞联集团官网</b>（<b>网址： 
 <a href="http://www.reliancejk.com/index.php">www.reliancejk.com/index.php</a> </b>）	
 
