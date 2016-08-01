@@ -12,4 +12,4 @@
             <div class="host-top-right"><a href="http://www.reliancejk.com/" target="_blank">瑞联集团</a> | <a href="http://www.lancentjk.com/" target="_blank">朗欣特</a><b></div>
         </div>
 <div>在<b>网站维护期间</b>，请直接访问<b>瑞联集团官网</b>（<b>网址： 
-<a href="http://www.reliancejk.com/index.php">www.reliancejk.com/index.php</a> </b>）	</div>		
+<u><a href="http://www.reliancejk.com/index.php">www.reliancejk.com/index.php</a> </u></b>）	</div>		
