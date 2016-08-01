@@ -1,5 +1,5 @@
 #说明
-瑞联·朗欣特品牌官网(lancentjk.com)正在升级 <a href="http://test.lancentjk.com/" target="_blank">调试中</a><b>。。。
+瑞联·朗欣特品牌官网(lancentjk.com) <a href="http://test.lancentjk.com/" target="_blank">正在升级调试中</a><b>。。。
 <body>
     <div>        
         <div class="host-top">
